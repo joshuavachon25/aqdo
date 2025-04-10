@@ -16,6 +16,10 @@ Ce repository est une **exploration**, une **pratique en devenir**, pour repense
 > **AQDO** invite à tester avec justesse, coder avec clarté, et cultiver la qualité comme on cultive un art.
 
 --
+
+Dojo: Projet de test
+
+
 ... Ce qui suit n'est que notes...
 
 AQDO n’est pas une méthode. 
